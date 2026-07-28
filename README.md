@@ -38,6 +38,7 @@ Estamos aprendiendo GitHub
   <li>comer</li>
   <li>jugar partios</li>
   <li>ver combates</li>
+  <li>descansar</li>
 </ul>
 </article>
 
