@@ -48,7 +48,7 @@ Estamos aprendiendo GitHub
 <p>hola soy miguel alexander tengo 16 años y me gusta el boxeo</p>
   <ul>
 <li>Entrenar</li>
-<li>andar con mujeres</li>
+<li>andar con los parceros</li>
 <li>compartir tiempo con mi madre</li>
     <li>descansar</li>
   </ul>
