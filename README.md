@@ -35,5 +35,27 @@ Estamos aprendiendo GitHub
 
 
 
+
+
+
+
+
+<hgropup>
+  <h1>Miguel Alexander</h1>
+  <h3>hobbies</h3>
+</hgropup>
+<article>
+<p>hola soy miguel alexander tengo 16 años y me gusta el boxeo</p>
+  <ul>
+<li>Entrenar</li>
+<li>andar con mujeres</li>
+<li>compartir tiempo con mi madre</li>
+    <li>descansar</li>
+  </ul>
+</article>
+
+
+
+
   
 </body>
