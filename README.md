@@ -32,7 +32,7 @@ Estamos aprendiendo GitHub
 <h3>hobbies</h3>
 </hgropup>
 <article>
-<p>soy matias gonzalez me gusta el futbol, ver boxeo, mma y casi todas las artes marciales, también me gusta el futbol y comer mucho</p>
+<p>soy matias gonzalez me gusta el futbol. ver boxeo, mma y casi todas las artes marciales. también me gusta el futbol y comer mucho</p>
 <ul>
   <li>entrenar</li>
   <li>comer</li>
@@ -41,14 +41,6 @@ Estamos aprendiendo GitHub
   <li>descansar</li>
 </ul>
 </article>
-
-
-
-
-
-
-
-
 
 
 
