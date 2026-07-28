@@ -17,7 +17,6 @@ Estamos aprendiendo GitHub
 
 <hgropup>
   <h1>Miguel Yanes</h1>
-  <h2>Gustos</h2>
   <h3>hobbies</h3>
 </hgropup>
 <article>
