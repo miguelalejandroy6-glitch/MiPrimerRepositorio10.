@@ -59,7 +59,7 @@ Estamos aprendiendo GitHub
   </ul>
 </article>
 
-
+<img src="https://http2.mlstatic.com/D_NQ_NP_902422-MCO104019510311_012026-O.webp" alt="guantes">
 
 
   
